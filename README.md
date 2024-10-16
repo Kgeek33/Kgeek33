@@ -12,7 +12,7 @@
 
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Kgeek33&show_icons=true&theme=tokyonight)
 
-- Languages (_sur mes projets publics_) :
+- Languages (_pas encore stable, mes projets sont en cours de déploiement_) :
 
 ![Top Languages de Programmation](https://github-readme-stats.vercel.app/api/top-langs/?username=Kgeek33&layout=compact)
 
