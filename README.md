@@ -12,10 +12,6 @@
 
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Kgeek33&show_icons=true&theme=tokyonight)
 
-- Languages (_pas encore stable, mes projets sont en cours de déploiement_) :
-
-![Top Languages de Programmation](https://github-readme-stats.vercel.app/api/top-langs/?username=Kgeek33&layout=compact)
-
 ## Mes Projets :
 
 - Papillon :
@@ -33,8 +29,6 @@ Description : T'es Bon pour Marcher (TBpM) est destiné aux **transports en comm
 Pour consulter TBpM -> [https://tbpm.kylou.fr/](https://tbpm.kylou.fr/)
 
 - Et plein d'autres...
-
-_Mes projets vont être publiés petit à petit sur mon profil, soyez patient !_
 
 - Mes langages pratiqués :
 
