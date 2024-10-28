@@ -1,7 +1,5 @@
 # 👋 Salut, c'est Kylian
 
-> Habitant de la région bordelaise
-> 
 > En classe de Terminale, en lycée Générale
 > 
 > L'informatique est ma passion, une de mes occupations préférées ! 😄
