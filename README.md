@@ -20,7 +20,7 @@ Plus d'infos : [README.md](https://github.com/PapillonApp/Papillon/blob/main/REA
 
 - T'es Bon pour Marcher :
 
-_Ce projet n'est pas public_
+_Ce projet est disponible au public, mais n'est pas open-source_
 
 Description : T'es Bon pour Marcher (TBpM) est destiné aux **transports en commun de Bordeaux Métropole**. TBpM permet de localiser les véhicules en service, d'afficher leur position, leur avance/retard... De plus, TBpM affiche également les prochains passages à un arrêt en précisant le "statut" du passage (avance/retard ou autre)
 
