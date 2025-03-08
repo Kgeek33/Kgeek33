@@ -10,7 +10,7 @@
 
 <ul>
   <li>
-    🔭 I’m working on <strong>TBpM</strong>, it's a personal project (_and is not on GitHub_)
+    🔭 I’m working on <strong>TBpM</strong>, it's a personal project (<em>and is not on GitHub</em>)
   </li>
   <li>
     🌱 I’m currently learning <strong>C</strong>
