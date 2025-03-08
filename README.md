@@ -16,7 +16,7 @@
     🌱 I’m currently learning **C**
   </li>
   <li>
-    👯 I’m collaborating [Papillon](https://github.com/PapillonApp/Papillon)'s project
+    👯 I’m collaborating <a href="https://github.com/PapillonApp/Papillon">Papillon</a>'s project
   </li>
 </ul>
 
