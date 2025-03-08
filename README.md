@@ -8,9 +8,17 @@
   />
 </p>
 
-- 🔭 I’m working on **TBpM**, it's a personal project (_and is not on GitHub_) -
-🌱 I’m currently learning **C** - 👯 I’m collaborating
-[Papillon](https://github.com/PapillonApp/Papillon)'s project
+<ul>
+  <li>
+    🔭 I’m working on **TBpM**, it's a personal project (_and is not on GitHub_)
+  </li>
+  <li>
+    🌱 I’m currently learning **C**
+  </li>
+  <li>
+    👯 I’m collaborating [Papillon](https://github.com/PapillonApp/Papillon)'s project
+  </li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
