@@ -28,15 +28,4 @@ Pour consulter TBpM -> [https://tbpm.kylou.fr/](https://tbpm.kylou.fr/)
 
 - Et plein d'autres...
 
-- Mes langages pratiqués :
-
-  - Python
-  - TypeScript
-    - React TSX
-    - React Native
-  - JavaScript
-  - HTML
-  - CSS
-  - C#
-  - Java
-  - SQL
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cs,css,git,github,githubactions,html,java,js,md,nextjs,nodejs,powershell,py,react,sqlite,tailwind,ts,vscode,windows)](https://skillicons.dev)
