@@ -10,7 +10,7 @@
 
 <ul>
   <li>
-    🔭 I’m working on <strong>TBpM</strong>, it's a personal project (<em>and is not on GitHub</em>)
+    🔭 I’m working on <strong>TBpM</strong>, it's a personal project
   </li>
   <li>
     👯 I’m collaborating <a href="https://github.com/PapillonApp/Papillon">Papillon</a>'s project
