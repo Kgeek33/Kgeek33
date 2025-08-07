@@ -13,7 +13,7 @@
     🔭 I’m working on <strong>TBpM</strong>, it's a personal project
   </li>
   <li>
-    👯 I’m collaborating <a href="https://github.com/PapillonApp/Papillon">Papillon</a>'s project
+    👯 Last year, I’m collaborating to <a href="https://github.com/PapillonApp/Papillon">Papillon</a>'s project
   </li>
 </ul>
 
