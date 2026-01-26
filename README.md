@@ -10,13 +10,19 @@
 
 <ul>
   <li>
-    🔭 I’m working on <strong>TBpM</strong>, it's a personal project
+    <p>🔭 I’m working on <strong>TBpM</strong>, it's a personal project
+      => <a href="https://tbpm.kylou.fr/">Link to access</a>
+    </p>
+    <p>
+      <a href="https://github.com/Kgeek33/static-apis-tbpm-data"><code>static-apis-tbpm-data</code></a>
+      is a sub-repo to save unnecessary client-side requests and improve performance
+    </p>
   </li>
   <li>
-    🧑‍🤝‍🧑 I'm develop @simulateur-bcc
+    🧑‍🤝‍🧑 I'm develop <a href="https://github.com/simulateur-bcc">@simulateur-bcc</a>
   </li>
   <li>
-    👯 Last year, I’m collaborating to <a href="https://github.com/PapillonApp/Papillon">Papillon</a>'s project
+    👯 In 2024-2025 school year, I’m collaborating to <a href="https://github.com/PapillonApp/papillon-v7">Papillon's (v7)</a> project
   </li>
 </ul>
 
@@ -165,7 +171,7 @@
 </p>
 
 <p>
-  &nbsp;<img
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=kgeek33&show_icons=true"
     alt="Kgeek33 GitHub stats"
