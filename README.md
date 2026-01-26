@@ -13,6 +13,9 @@
     🔭 I’m working on <strong>TBpM</strong>, it's a personal project
   </li>
   <li>
+    🧑‍🤝‍🧑 I'm develop @simulateur-bcc
+  </li>
+  <li>
     👯 Last year, I’m collaborating to <a href="https://github.com/PapillonApp/Papillon">Papillon</a>'s project
   </li>
 </ul>
@@ -161,26 +164,10 @@
   </a>
 </p>
 
-<!-- <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kgeek33&show_icons=true&locale=fr&layout=compact"
-    alt="Kgeek33 top languages"
-  />
-</p> -->
-
 <p>
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=kgeek33&show_icons=true"
     alt="Kgeek33 GitHub stats"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kgeek33"
-    alt="Kgeek33 data"
   />
 </p>
