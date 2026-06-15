@@ -10,13 +10,7 @@
 
 <ul>
   <li>
-    <p>🔭 I’m working on <strong>TBpM</strong>, it's a personal project
-      => <a href="https://tbpm.kylou.fr/">Link to access</a>
-    </p>
-    <p>
-      <a href="https://github.com/Kgeek33/static-apis-tbpm-data"><code>static-apis-tbpm-data</code></a>
-      is a sub-repo to save unnecessary client-side requests and improve performance
-    </p>
+    🔭 I’m working on <strong>TBpM</strong>, it's a personal project => <a href="https://tbpm.kylou.fr/">Link to access</a>
   </li>
   <li>
     🧑‍🤝‍🧑 I'm develop <a href="https://github.com/simulateur-bcc">@simulateur-bcc</a>
